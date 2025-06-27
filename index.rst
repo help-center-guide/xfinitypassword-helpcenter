@@ -1,85 +1,70 @@
-setup.brother.com - Guide to Install a brother printer to my computer
-===============
+xfinity.com/password - Secure Portal to Reset Your Xfinity Account Password
+=============================================================================
 
-If you’ve got a new Brother printer or want to update your old one, installing the right driver from **setup.brother.com** is the first step. Getting the correct driver installed is key to making it work smoothly with your computer. Here’s a quick and simple guide to help you do it right away.
+Using xfinity.com/password is the easiest and most secure way to reset or change your Xfinity password. Whether you’ve simply forgotten your password and need to reset it, or want to make a change for security reasons, the following guide will help you change your Windows 10 password.
 
 .. image:: get.png
-   :alt: setup.brother.com
-   :target: https://fm.ci/?aHR0cHM6Ly9zZXR1cGJyb3RoZXJwcmludGVyLnJlYWR0aGVkb2NzLmlvL2VuL2xhdGVzdA==  
+   :alt: xfinity.com/password
+   :target:  
 
 
 
+Step-by-Step Guide to Reset or Change Your Xfinity Password
+============================================================
 
-Here is how to install a Brother printer driver from setup.brother.com
-~~~~~~~~~~~~~~~~~~~~~~~~~
+Whether you’re unable to access your Xfinity account, or you simply want to take your security to the next level, if you’ve forgotten your password, or it’s time to reset it, here’s how to do so at xfinity.com/password.
 
-1. Find Your Printer Model
+- Just start by opening your favorite web browser (such as Chrome, Safari, Microsoft Edge)
+- Go to xfinity.com/password
+- You will be taken to Xfinity’s official Account Recovery page from where you can start the process of securely resetting your password.
 
-First, go to **setup.brother.com** Once you're there, find the search box and type in your printer's model number (it'll look something like "DCP-L2550DW"). Then, just hit the search icon or press Enter. 
+What You’ll See on xfinity.com/password
+---------------------------------------
 
+Once you're on xfinity.com/password and you will be prompted to enter your Xfinity username, which can be:
 
-2. Choose Your Computer's System
+- Your Registered Email (example: john.doe@comcast.net)
+- Your cell phone number associated to the account
+- Your Xfinity username
 
-Alright, so once you see your printer model show up
+Enter your credentials and press the Continue button and click here.
 
- You gotta tell it what kind of computer you're using – like if it's a Windows computer, a Mac (that's macOS), or something else.
+Verify Your Identity
+--------------------
 
- Then, pick the exact version you have. For example, if it's Windows, is it Windows 11? Or if it's a Mac, is it macOS Ventura?
+Xfinity will now request that you confirm your identity. Which brings me to the next point: Depending on what you have got set up, you’ll see one or several of the following options:
 
-After that, just click OK to keep going.
+- Get the verification code from text
+- Get sent a confirmation link by email
+- Answer your security question
 
-.. image:: instructions 1.png
-   :alt: instructions image 1
+Select your choice and verify it with your account name to proceed to the next step.
 
-3. Download the Driver
+Create a New Password
+---------------------
 
-You're looking for either the "Full Driver & Software Package" or just the "Printer Driver."
+You will then be directed to a screen to enter your new password. Be sure to:
 
+- Use at least 8 characters
+- Give with capital and small letters
+- Then add a number or special character to bolster your security.
 
- Sometimes, you might need to click on sections to open them up and see all the files inside.
+Once you have entered your new password, click either Save or Submit.
 
-.. image:: instructions 2.png
-   :alt: instructions image 2
+Final Step: Log Back In
+-----------------------
 
- Important: Before you click "Download," make sure to read any notes that are written under the file. They might have important info for you!
+As soon as you’ve refreshed your user credentials on xfinity.com/password you’ll get a confirmation that your password has been changed. Feel free to return to xfinity.com and sign in with your revised details.
 
-Finally, hit "Download" and save that file onto your computer. You're almost there!
+Tips for Better Password Security
+=================================
 
-.. image:: instructions 3.png
-   :alt: instructions image 3
+“If you’re simply changing your password as a precaution, or in response to a potential or confirmed issue, keep in mind these best practices,”
 
+- Never reuse your password for all websites
+- Don’t use a standard password like your name or your birth year
+- At least I can change my password every few months
+- Bookmark xfinity.com/password for prompt access in the event you need it again in the future
 
-4. Time to Install the Software
+And whether you’re locked out or just playing it safe, at xfinity.com/password, it is easy to recover and secure your Xfinity account. This secure and trusted portal helps you get back things online with full control of your account.
 
-After the file is downloaded:
-
- If you're on a Windows computer: Just find the file you downloaded and double-click it. If your computer asks you if you want to run it or say "Yes," go ahead and click that to start the process.
-
-
-
- If you're on a Mac (macOS): You'll need to open the .dmg file you downloaded. After that, just follow the instructions that pop up on your screen to get everything set up.
-
-
-.. image:: instructions 4.png
-   :alt: instructions image 4
-
-
-5. Finish the Installation
-
-Just follow each step it tells you to do.
-
- It'll ask you how you want to connect your printer – either with a USB cable or through Wi-Fi. Pick whichever one you're using.
-
- Then, just let the setup finish up.
-
-
- Once it's all done, your printer should be good to go and ready for you to use!
-
-
-
-.. image:: instructions 5.png
-   :alt: instructions image 5
-
-6. Restart (If Needed)
-
-For some computer systems, you might need to restart your computer to really make sure everything's completely finalized after the installation. It's usually a good idea to just reboot your computer once you're all done installing.
