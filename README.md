@@ -1,1 +1,1 @@
-# xfinitypassword-helpcenter
+# xfinity.com/password
