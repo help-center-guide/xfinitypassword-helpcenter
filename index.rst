@@ -1,7 +1,7 @@
 xfinity.com/password - Secure Portal to Reset Your Xfinity Account Password
 =============================================================================
 
-Using xfinity.com/password is the easiest and most secure way to reset or change your Xfinity password. Whether you’ve simply forgotten your password and need to reset it, or want to make a change for security reasons, the following guide will help you change your Windows 10 password.
+Using xfinity.com/password is the easiest and most secure way to reset or change your Xfinity password. Whether you’ve simply forgotten your password and need to reset it, or want to make a change for security reasons, the following guide will help you change your xfinity password.
 
 .. image:: get.png
    :alt: xfinity.com/password
