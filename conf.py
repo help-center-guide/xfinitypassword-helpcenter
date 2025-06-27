@@ -15,9 +15,9 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'setup.brother.com'
-copyright = '2025, setup.brother.com'
-author = 'setup.brother.com'
+project = 'xfinity.com/password'
+copyright = '2025, xfinity.com/password'
+author = 'xfinity.com/password'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0.0'
@@ -25,10 +25,10 @@ release = '1.0.0'
 # -- HTML output settings ----------------------------------------------------
 
 # Title shown in the browser tab and top of HTML pages
-html_title = "Setup.brother.com - Guide to Install a brother printer to my computer"
+html_title = "xfinity.com/password - Secure portal to reset your Xfinity account password"
 
 # Optional short title (e.g., for nav bar)
-html_short_title = "Guide to Install a brother printer to my computer"
+html_short_title = "Secure portal to reset your Xfinity account password"
 
 # Favicon (place favicon.ico in the root or _static folder)
 html_favicon = 'favicon.ico'
