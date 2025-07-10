@@ -5,7 +5,7 @@ Using xfinity.com/password is the easiest and most secure way to reset or change
 
 .. image:: get.png
    :alt: xfinity.com/password
-   :target:  https://xfinityhelpcenter.readthedocs.io/en/latest/
+   :target:  https://pre.im/?r4Ekguug57HavznYexGoVhQ0SJrnKzQrQKsgPpoE0aux3A7xRW9dCdjvzDC9PquWTHY
 
 
 
